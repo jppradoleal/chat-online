@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "113756474388",
+    "project_id": "chat-online-c3983",
+    "storage_bucket": "chat-online-c3983.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113756474388:android:9b805b8acdc13f75e3ab01",
+        "android_client_info": {
+          "package_name": "io.github.jppradoleal.chatonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113756474388-np5ik9igspggpjkok5b6f9n1ieuf8klr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.jppradoleal.chatonline",
+            "certificate_hash": "ff166c7ecffd414a69a648127f4de2000dc1f5f9"
+          }
+        },
+        {
+          "client_id": "113756474388-fc1h5ciulh81c08lvi01ivhpsd5l633a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLroClrKB0MLiptfUO3CRs2Nl3Lqv54kI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113756474388-fc1h5ciulh81c08lvi01ivhpsd5l633a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
